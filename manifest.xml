@@ -1,0 +1,15 @@
+<package>
+  <description brief="goblin">
+
+     goblin
+
+  </description>
+  <author>nerdwizard</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/goblin</url>
+  <depend package="roscpp"/>
+
+</package>
+
+
